@@ -1,0 +1,14 @@
+{
+  "format": 1,
+  "product": "dokkan-saturn",
+  "version": "1.99.0",
+  "channel": "stable",
+  "package_url": "https://github.com/NickCodesSaturn/dokkansaturnupdates/releases/download/v1.99.0/Saturn_1.99.0.zip",
+  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "size": 0,
+  "summary": "Official Saturn signed update channel bootstrap. Saturn 1.99.0 is current; the first installable stable package will be published with Saturn 2.0.",
+  "installable": false,
+  "package_published": false,
+  "channel_status": "bootstrap",
+  "signature_b64": "XlFPe8XujjwSHMYIcLOrmYI8s3OJQHAbJNLASfxQaxzho95tFLDvhlh9z486qXnWEBJYGtO3mhmzrv5TsC96AA=="
+}
